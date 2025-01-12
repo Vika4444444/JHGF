@@ -1,0 +1,44 @@
+nav a{
+    text-decoration:none;
+    border:5px solid black;
+    border-radius: 5px;
+    padding:5px;
+}
+nav{
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid lightslategray;
+    background-color: orange;
+}
+h2{
+    font-size:35px;
+}
+body{
+    background-color: gray;
+}
+
+h1{
+    color:blue;
+    background-color: aqua;
+}
+
+p{
+    font-size: 25px;
+}
+
+footer{
+    background-color: blue;
+}
+
+h1{
+  text-align:center; 
+}
+
+main{
+    margin: 13px;
+}
+
+header{
+    background-color: chocolate;
+
+}
